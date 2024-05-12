@@ -56,5 +56,5 @@ We plan to add the following feature:
 - scikit-image
 
 ## Author
-- [Hridaydeep](https://github.com/Hridaydeep)
+- [Hridaydeep Bora](https://github.com/Hridaydeep)
 - [Dr W Wilfred Godfrey](https://github.com/fredofrey)
